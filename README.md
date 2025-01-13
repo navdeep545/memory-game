@@ -142,7 +142,7 @@ We welcome contributions! Here's how you can help:
 
 ## 🚀 Demo
 
-Check out the live version of the project: [Emoji Memory Game](./assets/demo.mp4)
+Check out the live version of the project: [Emoji Memory Game](https://github.com/navdeep545/memory-game/blob/main/assets/demo.mp4)
 
 ---
 
